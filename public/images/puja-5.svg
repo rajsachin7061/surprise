@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f5bdca"/><stop offset="1" stop-color="#d88191"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h800v1000H0z"/>
+  <path fill="#fff1dd" opacity=".5" d="M-80 166 88 0h164L-80 332zm708 834 252-252v167l-85 85zM577 0h118L0 695V577z"/>
+  <rect x="128" y="153" width="544" height="646" rx="272" fill="#fff9ef" opacity=".65"/>
+  <circle cx="400" cy="408" r="132" fill="#754255"/>
+  <path fill="#754255" d="M184 900c24-238 95-359 216-359s192 121 216 359z"/>
+  <path fill="#ffe8d0" d="M328 424c0 40 32 72 72 72s72-32 72-72v-39H328z"/>
+  <path fill="#fff5e4" d="M400 184c23 42 45 64 87 87-42 23-64 45-87 87-23-42-45-64-87-87 42-23 64-45 87-87z"/>
+  <text x="400" y="966" fill="#fff7eb" font-family="Georgia,serif" font-size="35" font-style="italic" text-anchor="middle">one more beautiful memory</text>
+</svg>

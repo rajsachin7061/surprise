@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#eeb8ca"/><stop offset="1" stop-color="#8b6178"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h800v1000H0z"/>
+  <circle cx="400" cy="395" r="240" fill="#fff1d3" opacity=".55"/>
+  <path fill="#42685a" d="M0 670c113-157 201-120 304-41 97 74 167-122 282-102 87 15 139 98 214 146v327H0z"/>
+  <path fill="#315749" d="M0 791c149-103 236-59 340 7 125 79 267-65 460-27v229H0z"/>
+  <circle cx="400" cy="406" r="117" fill="#7f4a5e"/>
+  <path fill="#7f4a5e" d="M223 946c15-205 77-309 177-309s162 104 177 309z"/>
+  <path fill="#ffe3cb" d="M323 427c0 42 34 76 77 76s77-34 77-76v-35H323z"/>
+  <g fill="#f7bfd0"><circle cx="139" cy="311" r="19"/><circle cx="666" cy="447" r="22"/><circle cx="614" cy="201" r="15"/><circle cx="207" cy="558" r="13"/></g>
+  <text x="400" y="970" fill="#fff4e8" font-family="Georgia,serif" font-size="35" font-style="italic" text-anchor="middle">a little reminder</text>
+</svg>

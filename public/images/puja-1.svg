@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f8c5d0"/><stop offset="1" stop-color="#a95069"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#fff6dc" stop-opacity=".9"/><stop offset="1" stop-color="#fff6dc" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h800v1000H0z"/>
+  <circle cx="400" cy="380" r="270" fill="url(#glow)"/>
+  <circle cx="400" cy="420" r="140" fill="#7d3d50" opacity=".82"/>
+  <path fill="#7d3d50" opacity=".82" d="M115 1000c28-259 131-388 285-388s257 129 285 388z"/>
+  <path fill="#ffe8c8" d="M333 432c0 39 30 71 67 71s67-32 67-71v-45H333z"/>
+  <circle cx="305" cy="296" r="22" fill="#fff4dc" opacity=".8"/>
+  <circle cx="545" cy="224" r="13" fill="#fff4dc" opacity=".8"/>
+  <path fill="#fff3d8" d="M400 112c24 39 43 56 81 73-38 17-57 34-81 73-24-39-43-56-81-73 38-17 57-34 81-73z"/>
+  <text x="400" y="900" fill="#fff4e8" font-family="Georgia,serif" font-size="38" font-style="italic" text-anchor="middle">a moment to keep</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#fac7d5"/><stop offset=".62" stop-color="#ef9a9f"/><stop offset="1" stop-color="#855166"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h800v1000H0z"/>
+  <circle cx="590" cy="250" r="112" fill="#fff0c2" opacity=".85"/>
+  <path fill="#a95769" d="M0 560c145-112 227-38 347-115s254-93 453 6v549H0z"/>
+  <path fill="#693d56" d="M0 704c181-104 283-36 427-98 154-67 265-77 373-29v423H0z"/>
+  <path fill="#fff2e1" d="M206 710c0-82 53-132 123-132s123 50 123 132v204H206z"/>
+  <circle cx="329" cy="548" r="66" fill="#704354"/>
+  <path fill="#704354" d="M199 915c12-134 62-202 130-202s118 68 130 202z"/>
+  <path fill="#ffd9dc" d="M549 450c35-46 89-10 53 37l-53 60-53-60c-36-47 18-83 53-37z"/>
+  <text x="400" y="970" fill="#fff5eb" font-family="Georgia,serif" font-size="36" font-style="italic" text-anchor="middle">my happy place</text>
+</svg>

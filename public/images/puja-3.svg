@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f4b8c7"/><stop offset="1" stop-color="#f7d8bb"/></linearGradient></defs>
+  <path fill="url(#bg)" d="M0 0h800v1000H0z"/>
+  <circle cx="400" cy="485" r="228" fill="#fff8eb" opacity=".65"/>
+  <path fill="#874b60" d="M101 1000c30-238 123-358 299-358s269 120 299 358z"/>
+  <circle cx="400" cy="444" r="145" fill="#704354"/>
+  <path fill="#fff0d8" d="M296 457c21 22 41 32 61 32s40-10 61-32c21 22 41 32 61 32s40-10 61-32v69c0 81-51 133-122 133s-122-52-122-133z"/>
+  <path fill="#704354" d="M253 436c16-133 71-203 147-203 77 0 132 70 148 203-74-48-222-48-295 0z"/>
+  <g fill="#fff7e8"><circle cx="135" cy="217" r="13"/><circle cx="651" cy="307" r="17"/><circle cx="582" cy="139" r="10"/><circle cx="226" cy="314" r="9"/></g>
+  <text x="400" y="933" fill="#fff4e8" font-family="Georgia,serif" font-size="38" font-style="italic" text-anchor="middle">all the laughter</text>
+</svg>
