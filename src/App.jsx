@@ -95,7 +95,7 @@ function App() {
 
   return (
     <div className="min-h-screen overflow-hidden bg-rose-50 text-rose-900">
-      <audio ref={audioRef} src="/music/birthday-song.mp3" loop preload="none" />
+      <audio ref={audioRef} src={`${import.meta.env.BASE_URL}music/birthday-song.mp3`} loop preload="none" />
 
       <nav className="relative z-10 mx-auto flex max-w-7xl items-center justify-between px-5 py-5 sm:px-8">
         <a href="#home" className="flex items-center gap-2 font-display text-xl font-semibold">
